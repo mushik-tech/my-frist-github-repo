@@ -6,9 +6,19 @@ h1{
 }
 
 p{
-     color: crimson;
-     background-color: aqua;
+     color:red;
+    
      text-align: center;
      padding: 20px;
      margin-bottom: 10px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+fieldset{
+    background-image: url(../image/Background\ 8.png); 
+    background-size: 200px;
 }
